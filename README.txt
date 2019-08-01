@@ -1,12 +1,8 @@
 
-TITLE: 
-App - Free HTML5 App Template Built with Bootstrap 4
+##### Repositorio demo para la Certificación en Google Analytics Avanzado & IQ
+###La 404
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-
-CREDITS:
+Technologies:
 
 Bootstrap
 http://getbootstrap.com/
